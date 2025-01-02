@@ -1,3 +1,5 @@
+# ARCHIVED
+# Please see [https://github.com/truckermudgeon/maps](https://github.com/truckermudgeon/maps)
 # This repository has been made to support my main [application](https://github.com/Tumppi066/Euro-Truck-Simulator-2-Lane-Assist)
 - The repo might or might not be maintained.
 - Currently tested with 1.51.
